@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Turing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Turing</h1>
+        <p>A Máquina de Turing é um modelo matemático abstrato que simula o funcionamento de um computador. Desenvolvida pelo matemático Alan Turing na década de 1930, ela consiste em uma fita infinita dividida em células, uma cabeça de leitura/escrita que se move sobre a fita e um conjunto finito de estados e símbolos. Esse modelo pode realizar cálculos complexos e é fundamental na teoria da computação.</p>
+        <p>Nesta calculadora, você pode realizar operações matemáticas básicas usando a notação da Máquina de Turing.</p>
+        <div>
+            <label for="input">Entrada:</label>
+            <input type="text" id="input" placeholder="Ex: 1 + 2 * 3">
+            <button onclick="calculate()">Calcular</button>
+            <button onclick="clearInput()">Limpar</button>
+            <button onclick="backspace()">Apagar</button>
+        </div>
+        <div id="keyboard">
+            <div class="row">
+                <button onclick="addSymbol('1')">1</button>
+                <button onclick="addSymbol('2')">2</button>
+                <button onclick="addSymbol('3')">3</button>
+                <button onclick="addSymbol('+')">+</button>
+            </div>
+            <div class="row">
+                <button onclick="addSymbol('4')">4</button>
+                <button onclick="addSymbol('5')">5</button>
+                <button onclick="addSymbol('6')">6</button>
+                <button onclick="addSymbol('-')">-</button>
+            </div>
+            <div class="row">
+                <button onclick="addSymbol('7')">7</button>
+                <button onclick="addSymbol('8')">8</button>
+                <button onclick="addSymbol('9')">9</button>
+                <button onclick="addSymbol('*')">*</button>
+            </div>
+            <div class="row">
+                <button onclick="addSymbol('0')">0</button>
+                <button onclick="addSymbol('/')">/</button>
+                <button onclick="addSymbol('%')">%</button>
+                <button onclick="addSpace()">Espaço</button>
+            </div>            
+        </div>
+        <div id="results"></div>
+        <p><strong>Observação:</strong> Insira um espaço entre o número e o operador, conforme o exemplo, para o correto funcionamento da calculadora.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
