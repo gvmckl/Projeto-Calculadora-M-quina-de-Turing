@@ -95,6 +95,10 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga os passo
 
 Sugestões e relatórios de bugs também são muito apreciados. Sinta-se à vontade para abrir uma issue no GitHub.
 
+## Redes
+
+Confira a também a postagem no <a src="https://www.linkedin.com/posts/geovanna-mickaella_teoriadacomputaaexaeto-maerquinadeturing-activity-7203533822590652417-FLQv?utm_source=share&utm_medium=member_desktop">Linkedin!</a>
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
