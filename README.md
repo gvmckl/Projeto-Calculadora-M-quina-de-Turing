@@ -7,12 +7,12 @@
 <h3 align="center">Calculadora de Turing</h3>
 
 <div align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=34032B">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=9775fa">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=34032B">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=9775fa">
   
   <a href="https://github.com/gvmckl/Projeto-Calculadora-Maquina-de-Turing/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=34032B">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gvmckl/Projeto-Calculadora-Maquina-de-Turing?color=9775fa">
   </a>
   
    <a href="https://github.com/gvmckl/Projeto-Calculadora-Maquina-de-Turing/stargazers">
@@ -99,7 +99,7 @@ Sugestões e relatórios de bugs também são muito apreciados. Sinta-se à vont
 
 Confira a também a postagem no <a href="https://www.linkedin.com/posts/geovanna-mickaella_teoriadacomputaaexaeto-maerquinadeturing-activity-7203533822590652417-FLQv?utm_source=share&utm_medium=member_desktop">Linkedin!</a>
 
-Connfira o  <a href="https://gvmckl.github.io/Projeto-Calculadora-Maquina-de-Turing/">Deploy</a> dessa aplicação!
+Connfira o  <a href="https://gvmckl.github.io/Projeto-Calculadora-Maquina-de-Turing/">deploy</a> dessa aplicação!
 
 ## Licença
 
