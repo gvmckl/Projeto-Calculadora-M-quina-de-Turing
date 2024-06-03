@@ -35,7 +35,7 @@ Este projeto é uma aplicação de calculadora baseada na máquina de Turing, de
 
 ```plaintext
 Entrada: 1 + 2 * 3
-Saída: 7
+Saída: 3, 9
 ```
 
 ## Pré-requisitos
