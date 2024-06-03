@@ -72,7 +72,4 @@ Sugestões e relatórios de bugs também são muito apreciados. Sinta-se à vont
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
----
-
-Espero que você goste de usar esta calculadora baseada na máquina de Turing! Se tiver qualquer dúvida ou sugestão, por favor, abra uma issue no GitHub.
 
