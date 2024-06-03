@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href="#"><img alt="Banner Site" title="Calculadora de Turing" src="[https://i.imgur.com/KHGBHF5.png](https://i.imgur.com/GtF9lhj.png)" /></a>
+    <a href="#"><img alt="Banner Site" title="Calculadora de Turing" src="https://i.imgur.com/GtF9lhj.png" /></a>
 </h1>
 
-<h1 align="center">Este projeto é uma aplicação de calculadora baseada na máquina de Turing, desenvolvida com HTML, CSS e JavaScript. A aplicação permite que os usuários insiram uma sequência de operações matemáticas e obtenham os resultados. As operações suportadas incluem soma, subtração, multiplicação, divisão e módulo.</h1>
+<h1 align="center">Este projeto é uma aplicação de calculadora baseada na máquina de Turing, desenvolvida com HTML, CSS e JavaScript.</h1>
 
 <h3 align="center">Calculadora de Turing</h3>
 
