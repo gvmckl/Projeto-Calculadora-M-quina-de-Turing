@@ -97,7 +97,7 @@ Sugestões e relatórios de bugs também são muito apreciados. Sinta-se à vont
 
 ## Redes
 
-Confira a também a postagem no <a href="https://www.linkedin.com/posts/geovanna-mickaella_teoriadacomputaaexaeto-maerquinadeturing-activity-7203533822590652417-FLQv?utm_source=share&utm_medium=member_desktop">Linkedin!</a>
+Confira a também a postagem no <a href="https://www.linkedin.com/posts/geovanna-mickaella_teoriadacomputaaexaeto-maerquinadeturing-activity-7203533822590652417-FLQv?utm_source=share&utm_medium=member_desktop" target="blank_">Linkedin!</a>
 
 Connfira o  <a href="https://gvmckl.github.io/Projeto-Calculadora-Maquina-de-Turing/">deploy</a> dessa aplicação!
 
