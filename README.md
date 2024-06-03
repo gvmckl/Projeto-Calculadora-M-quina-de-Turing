@@ -1,6 +1,3 @@
-Claro! Aqui está o conteúdo do README.md atualizado com os passos para contribuir no projeto e a lista de navegadores atuais mais conhecidos na parte de pré-requisitos.
-
-```markdown
 # Calculadora Máquina de Turing
 
 Este projeto é uma aplicação de calculadora baseada na máquina de Turing, desenvolvida com HTML, CSS e JavaScript. A aplicação permite que os usuários insiram uma sequência de operações matemáticas e obtenham os resultados. As operações suportadas incluem soma, subtração, multiplicação, divisão e módulo.
@@ -78,5 +75,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 ---
 
 Espero que você goste de usar esta calculadora baseada na máquina de Turing! Se tiver qualquer dúvida ou sugestão, por favor, abra uma issue no GitHub.
-```
 
