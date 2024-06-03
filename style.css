@@ -5,6 +5,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    position: fixed;
+    margin: 10px;
 }
 
 .container {
@@ -12,14 +14,15 @@ body {
     padding: 20px;
     background-color: #f7f3e6; 
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid black;
     overflow: hidden; 
+    margin-bottom: 20px;
 }
 
 h1 {
     text-align: center;
     margin-bottom: 20px;
-    color: #574b90; 
+    color: #000000; 
 }
 
 #input {
@@ -31,7 +34,7 @@ h1 {
 }
 
 button {
-    padding: 10px 20px;
+    padding: 10px 19px;
     font-size: 16px;
     cursor: pointer;
     background-color: #9775fa; 
@@ -39,10 +42,11 @@ button {
     border: none;
     border-radius: 4px;
     margin-left: 5px;
+    border: 2px solid #000000;
 }
 
 button:hover {
-    background-color: #7d5bc4; 
+    background-color: #000000; 
 }
 
 #keyboard {
@@ -57,4 +61,10 @@ button:hover {
     flex: 1;
     margin: 5px;
     padding: 10px;
+    background-color: #9775fa;
+    border: 2px solid #000000;
+}
+
+.row button:hover {
+    background-color: #000000;
 }

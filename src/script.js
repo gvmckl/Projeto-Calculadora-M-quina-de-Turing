@@ -98,3 +98,12 @@ function calculate() {
         resultsDiv.innerHTML = `<p class="error">${e.message}</p>`;
     }
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+    const inputField = document.getElementById('input');
+    inputField.addEventListener('keypress', function(event) {
+        if (event.key === 'Enter') {
+            calculate();
+        }
+    });
+});
